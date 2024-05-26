@@ -1,2 +1,3 @@
 # demo-3
-this is practise demo for git and github
+this is practise for git and github.
+here we have one python file for now.
