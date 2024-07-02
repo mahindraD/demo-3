@@ -6,4 +6,4 @@ for j in range(6):
   print("rahul")
 
 for k in range(4):
-  print("Rohit Sharma")
+  print("Rohit Sharma & Kohli")
